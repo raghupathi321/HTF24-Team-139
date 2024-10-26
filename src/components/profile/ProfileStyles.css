@@ -1,0 +1,8 @@
+/* src/components/profile/ProfileStyles.css */
+.profile-container {
+    padding: 20px;
+}
+
+.profile-container h1 {
+    margin-bottom: 20px;
+}
